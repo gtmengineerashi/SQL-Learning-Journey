@@ -1,8 +1,6 @@
--- ==========================================
 -- SQL Basics Practice Queries
 -- Author: Your Name
 -- Concepts: SELECT, WHERE, Operators, ORDER BY
--- ==========================================
 
 -- 1. Display all employee records
 SELECT * FROM employees;
