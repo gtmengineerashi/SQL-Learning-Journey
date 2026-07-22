@@ -1,5 +1,5 @@
--- SQL Basics Practice Queries
--- Author: Your Name
+# SQL Basics Practice Queries
+-- Author: Ashi
 -- Concepts: SELECT, WHERE, Operators, ORDER BY
 
 -- 1. Display all employee records
